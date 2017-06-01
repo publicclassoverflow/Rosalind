@@ -36,3 +36,4 @@ if __name__ == "__main__":
     run("sample.txt")
     print("The result of the sequence in the dataset:")
     run("rosalind_dna.txt")
+
